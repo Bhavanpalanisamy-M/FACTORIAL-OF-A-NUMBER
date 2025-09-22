@@ -53,11 +53,12 @@ END
 
 ```
 OUTPUT
-
-(Keil output screenshot can be inserted here)
+<img width="1919" height="1077" alt="Screenshot 2025-09-22 233738" src="https://github.com/user-attachments/assets/70f9771c-fd70-4f76-a02f-5f15af7d840d" />
+<img width="818" height="493" alt="Screenshot 2025-09-22 233806" src="https://github.com/user-attachments/assets/eb94f401-0c55-4f66-86bc-213ef6777cd7" />
 
 ---
 MANUAL CALCULATIONS
+![MPMC MANUAL FACTORIAL CAL](https://github.com/user-attachments/assets/63ec053f-58a6-4b1b-90af-15494ff9de4e)
 
 ---
 
